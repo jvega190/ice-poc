@@ -13,7 +13,7 @@
 &lt;li&gt;To create new content types use the Site Config menu in the left Sidebar&lt;/li&gt;
 &lt;li&gt;To Update markup (including this text) edit this template under templates in the left Sidebar&lt;/li&gt;
 &lt;li&gt;To modify the text below this list click edit in the top toolbar.&lt;/li&gt;
-&lt;li&gt;Crafter documentation can be found&amp;nbsp;&lt;a href="http://docs.craftercms.org" target="_self"&gt;here.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Crafter documentation can be found&amp;nbsp;&lt;a href="http://docs.craftercms.org/en/3.0/" target="_self"&gt;here.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Crafter CMS authoring and developer training is available. Please contact&amp;nbsp;&lt;a href="mailto:info@craftersoftware.com"&gt;info@craftersoftware.com&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -26,8 +26,29 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2017-1-31T19:12:56.000Z</lastModifiedDate>
-	<lastModifiedDate_dt>2017-1-31T19:12:56.000Z</lastModifiedDate_dt>
+	<lastModifiedDate>2018-11-29T22:44:55.538Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-11-29T22:44:55.538Z</lastModifiedDate_dt>
 	<title>Hello!</title>
 	<disabled>false</disabled>
+	<shows item-list="true">	<item>	<show>		<item><key>/site/components/shows/friends.xml</key>
+<value>Friends</value>
+<include>/site/components/shows/friends.xml</include>
+<disableFlattening>false</disableFlattening>
+		</item></show>
+	</item>	<item>	<show>		<item><key>/site/components/shows/that70s.xml</key>
+<value>That 70s Show</value>
+<include>/site/components/shows/that70s.xml</include>
+<disableFlattening>false</disableFlattening>
+		</item></show>
+	</item>	<item>	<show>		<item><key>/site/components/shows/twoandahalfmen.xml</key>
+<value>Two And a Half Men</value>
+<include>/site/components/shows/twoandahalfmen.xml</include>
+<disableFlattening>false</disableFlattening>
+		</item></show>
+	</item>	<item>	<show>		<item><key>/site/components/shows/himym.xml</key>
+<value>How I met your Mother</value>
+<include>/site/components/shows/himym.xml</include>
+<disableFlattening>false</disableFlattening>
+		</item></show>
+	</item></shows>
 </page>

@@ -5,9 +5,11 @@
 
 -->
 <site-config>
-    <wem-project>ice-poc</wem-project>
-    <display-name>ice-poc</display-name>
+    <wem-project>icetest</wem-project>
+    <display-name>icetest</display-name>
     <default-timezone>EST5EDT</default-timezone>
+    
+    <previewServer>http://localhost:3000</previewServer>
     
     <published-repository>
         <enable-staging-environment>false</enable-staging-environment>

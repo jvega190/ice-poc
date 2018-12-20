@@ -59,12 +59,6 @@
                     </icon>
                 </control>
                 <control>
-                    <name>rte-tinymce4</name>
-                    <icon>
-                        <class>fa-code</class>
-                    </icon>
-                </control>
-                <control>
                     <name>dropdown</name>
                     <icon>
                         <class>fa-sort-desc</class>
@@ -214,48 +208,6 @@
                     <name>video-WebDAV-upload</name>
                     <icon>
                         <class>fa-square-o fa-server</class>
-                    </icon>
-                </datasource>
-                <datasource>
-                    <name>S3-repo</name>
-                    <icon>
-                        <class>fa-file-o</class>
-                        <stackedclass>fa-amazon</stackedclass>
-                    </icon>
-                </datasource>
-                <datasource>
-                    <name>img-S3-repo</name>
-                    <icon>
-                        <class>fa-square</class>
-                        <stackedclass>fa-amazon fa-inverse</stackedclass>
-                    </icon>
-                </datasource>
-                <datasource>
-                    <name>video-S3-repo</name>
-                    <icon>
-                        <class>fa-film</class>
-                        <stackedclass>fa-amazon</stackedclass>
-                    </icon>
-                </datasource>
-                <datasource>
-                    <name>S3-upload</name>
-                    <icon>
-                        <class>fa-file-o</class>
-                        <stackedclass>fa-amazon</stackedclass>
-                    </icon>
-                </datasource>
-                <datasource>
-                    <name>img-S3-upload</name>
-                    <icon>
-                        <class>fa-square</class>
-                        <stackedclass>fa-amazon fa-inverse</stackedclass>
-                    </icon>
-                </datasource>
-                <datasource>
-                    <name>video-S3-upload</name>
-                    <icon>
-                        <class>fa-film</class>
-                        <stackedclass>fa-amazon</stackedclass>
                     </icon>
                 </datasource>
                 <datasource>

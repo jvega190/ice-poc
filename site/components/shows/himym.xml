@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/show</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>bfef</objectGroupId>
+	<objectId>bfef8987-00fd-0448-ea94-3be444ebcff9</objectId>
+	<file-name>himym.xml</file-name>
+	<folder-name/>
+	<internal-name>How I met your Mother</internal-name>
+	<title>How I met your Mother</title>
+	<image>/static-assets/images/himym.jpeg</image>
+	<createdDate>2018-11-29T22:41:09.851Z</createdDate>
+	<createdDate_dt>2018-11-29T22:41:09.851Z</createdDate_dt>
+	<lastModifiedDate>2018-11-29T22:41:09.851Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-11-29T22:41:09.851Z</lastModifiedDate_dt>
+</component>

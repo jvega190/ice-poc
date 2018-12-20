@@ -257,6 +257,77 @@
 						</constraint>
 					</constraints>
 				</field>
+				<field>
+					<type>repeat</type>
+					<id>shows</id>
+					<iceId></iceId>
+					<title>Shows</title>
+					<description></description>
+					<minOccurs>0</minOccurs>
+					<maxOccurs>*</maxOccurs>
+					<properties>
+						<property>
+							<name>minOccurs</name>
+							<value>0</value>
+							<type>string</type>
+						</property>
+						<property>
+							<name>maxOccurs</name>
+							<value>*</value>
+							<type>string</type>
+						</property>
+					</properties>
+					<fields>
+				<field>
+					<type>node-selector</type>
+					<id>show</id>
+					<iceId></iceId>
+					<title>Show</title>
+					<description></description>
+					<defaultValue></defaultValue>
+					<help></help>
+					<properties>
+						<property>
+							<name>minSize</name>
+							<value></value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>maxSize</name>
+							<value></value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>itemManager</name>
+							<value>showsDS</value>
+							<type>datasource:item</type>
+						</property>
+						<property>
+							<name>readonly</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>disableFlattening</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>useSingleValueFilename</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+					</properties>
+					<constraints>
+						<constraint>
+							<name>allowDuplicates</name>
+							<value><![CDATA[]]></value>
+							<type>boolean</type>
+						</constraint>
+					</constraints>
+				</field>
+					</fields>
+				</field>
 			</fields>
 		</section>
 	</sections>
@@ -269,6 +340,29 @@
 						<property>
 							<name>repoPath</name>
 							<value>/static-assets/item/images/{yyyy}/{mm}/{dd}/</value>
+								<type>undefined</type>
+						</property>
+					</properties>
+				</datasource>
+				<datasource>
+					<type>child-content</type>
+					<id>showsDS</id>
+					<title>ShowsDS</title>
+					<interface>item</interface>
+					<properties>
+						<property>
+							<name>repoPath</name>
+							<value>site/components/shows</value>
+								<type>undefined</type>
+						</property>
+						<property>
+							<name>browsePath</name>
+							<value>site/components/shows</value>
+								<type>undefined</type>
+						</property>
+						<property>
+							<name>type</name>
+							<value></value>
 								<type>undefined</type>
 						</property>
 					</properties>

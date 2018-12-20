@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/show</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>88dc</objectGroupId>
+	<objectId>88dc7a60-71db-0b7c-8257-0a725bb4ea1f</objectId>
+	<file-name>that70s.xml</file-name>
+	<folder-name/>
+	<internal-name>That 70s Show</internal-name>
+	<title>That 70s Show</title>
+	<image>/static-assets/images/that70s.jpeg</image>
+	<createdDate>2018-11-29T22:40:07.572Z</createdDate>
+	<createdDate_dt>2018-11-29T22:40:07.572Z</createdDate_dt>
+	<lastModifiedDate>2018-11-29T22:40:07.572Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-11-29T22:40:07.572Z</lastModifiedDate_dt>
+</component>

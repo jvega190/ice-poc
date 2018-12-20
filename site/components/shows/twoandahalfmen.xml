@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/show</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b7e6</objectGroupId>
+	<objectId>b7e68998-fb23-c1c0-c3ec-d40b40aa3da9</objectId>
+	<file-name>twoandahalfmen.xml</file-name>
+	<folder-name/>
+	<internal-name>Two And a Half Men</internal-name>
+	<title>Two And a Half Men</title>
+	<image>/static-assets/images/twoandahalfmen.jpeg</image>
+	<createdDate>2018-11-29T22:40:45.017Z</createdDate>
+	<createdDate_dt>2018-11-29T22:40:45.017Z</createdDate_dt>
+	<lastModifiedDate>2018-11-29T22:40:45.017Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-11-29T22:40:45.017Z</lastModifiedDate_dt>
+</component>
